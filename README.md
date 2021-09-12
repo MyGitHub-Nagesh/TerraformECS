@@ -1,2 +1,1 @@
-# TerraformECS
-ECS service with hello world
+# ECS Service with hello world
